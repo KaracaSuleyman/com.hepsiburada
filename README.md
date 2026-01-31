@@ -19,13 +19,3 @@ This repository contains an End-to-End (E2E) test automation framework designed 
 - **IDE:** Visual Studio Code
 - **Version Control:** Git & GitHub
 
-## 📂 Project Structure
-
-```text
-com.hepsiburada/
-│
-├── lessons/                # Core Python and automation logic
-│   └── zipfunk.py          # Data processing and utility functions
-├── excersizes/             # Algorithms and Python fundamental practices
-├── simpleProjects/         # Small-scale automation and logic scripts
-└── README.md               # Project documentation
